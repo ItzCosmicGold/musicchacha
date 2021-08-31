@@ -1,1 +1,1 @@
-Worker: ./src/package.json
+Worker: ./src/index.js
